@@ -1,0 +1,15 @@
+{
+  "name": "movie-crawlers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhuo, yi-zia",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
